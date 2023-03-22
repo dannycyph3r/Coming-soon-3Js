@@ -4,13 +4,3 @@ body{
   padding: 0;
 }
 
-
-#word{
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-  font-size: 20vh;
-  position: absolute;
-  margin: 10;
-  /*bottom: 0;*/
-  color: #EEAF00;
-  -webkit-text-stroke: 0.15vh rgb(0, 238, 218);
-}
